@@ -1,0 +1,10 @@
+{
+  "keywords": [
+    "mot clé 1",
+    "mot clé 2",
+    "mot clé 3"
+  ],
+  "domain": "monsite.fr",
+  "api_key": "cle_api_serpapi",
+  "csv_filename": "resultats.csv"
+}
